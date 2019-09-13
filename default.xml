@@ -5,5 +5,7 @@
   <default revision="master" remote="shravan"/>
 
 <project path="c-programs" name="c-programs" />
+<project path="linux-tools" name="linux-tools" />
+<project path="kernel_programs" name="kernel_programs" />
 
 </manifest>
