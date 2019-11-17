@@ -9,5 +9,6 @@
 <project path="kernel_programs" name="kernel_programs" />
 <project path="slos_arm9_OS" name="slos_arm9_OS" />
 <project path="veda-ldd" name="veda-ldd" />
+<project path="linux_test_programs" name="linux_test_programs" />
 
 </manifest>
