@@ -11,5 +11,6 @@
 <project path="veda-ldd" name="veda-ldd" />
 <project path="linux_test_programs" name="linux_test_programs" />
 <project path="Device_Driver_EasyArm" name="Device_Driver_EasyArm" />
+<project path="Linux_Internals" name="Linux_Internals" />
 
 </manifest>
