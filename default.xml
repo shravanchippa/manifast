@@ -14,5 +14,6 @@
 <project path="Linux_Internals" name="Linux_Internals" />
 <project path="linux-driver-examples" name="linux-driver-examples" />
 <project path="my_wiki" name="my_wiki" />
+<project path="device_tree_docs" name="device_tree_docs" />
 
 </manifest>
